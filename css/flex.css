@@ -1,0 +1,47 @@
+body {
+    background-color: aqua;
+    margin: 0%;
+}
+
+.container {
+    background-color: red;
+    height: 100vh;
+}
+.def {
+    height: 10vh;
+}
+#navbar {
+    background-color: greenyellow;
+}
+#main {
+    background-color: violet;
+    height: 80vh;
+    display: flex;
+}
+#footer {
+    background-color: orange;
+    display: flex;
+}
+#main-1{
+    background-color: blue;
+    width: 20vw;
+}
+#main-2{
+    background-color:green;
+    width: 80vw;
+}
+.footer-def {
+    width: 25vw;
+}
+#footer-1 {
+    background-color: red;
+}
+#footer-2 {
+    background-color: green;
+}
+#footer-3 {
+    background-color: blue;
+}
+#footer-4 {
+    background-color: pink;
+}
